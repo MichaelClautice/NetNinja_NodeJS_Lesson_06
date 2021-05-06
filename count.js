@@ -1,3 +1,7 @@
+// Michael_Clautice, Richmond, VA
+// The Net Ninja - Node JS Tutorial for Beginners 
+// Lesson 06 - Modules and require()
+//---------
 // count.js is a module for app.js
 // counter var is assigned an anon function
 var counter = function(array){
