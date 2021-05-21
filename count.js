@@ -1,5 +1,5 @@
 // Michael Clautice, Richmond, VA
-// The Net Ninja - Node JS Tutorial for Beginners 
+// The Net Ninja - NodeJS Tutorial for Beginners 
 // Lesson 06 - Modules and require()
 //---------
 // count.js is a module for app.js
