@@ -8,4 +8,4 @@ https://www.youtube.com/watch?v=xHLd36QoS4k&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4b
 
 • NodeJS app code is split into individual modules according to functionality.
 
-• Modules are re-usable, logical sections.
+• Modules are recyclable, individual files whose functions can be exported to the main entry file and executed.
